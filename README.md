@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Utah, US
 
-> Free BeamStation sample export with 193 rows and masked direct-contact fields.
+> Free BeamStation sample export with 188 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `415800` |
 | Location | Utah |
 | Category | Restaurants |
-| Full dataset size | 1,930 records |
-| Free sample size | 193 records (10.0%) |
-| Last export | 2026-04-07T18:24:01.340204+00:00 |
+| Full dataset size | 1,885 records |
+| Free sample size | 188 records (9.97%) |
+| Last export | 2026-04-14T23:42:15.032736+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-utah-us-sample-415800/releases/download/sample-latest/beamstation_415800_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
